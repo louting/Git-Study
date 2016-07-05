@@ -1,0 +1,3 @@
+git remote -v 显示目前的远程仓库
+
+git remote add origin git@github.com:louting/ruby.git
