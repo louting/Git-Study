@@ -7,6 +7,9 @@ git remote add origin git@github.com:louting/ruby.git
 ```
 
 ## 向多远程库推送代码
+    Git同时提交到多个远程仓库
+    http://wonux.tech/git-remote.html
+
 ```shell
 git push all --all
 ```
