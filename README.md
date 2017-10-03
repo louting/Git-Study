@@ -1,7 +1,7 @@
-
+## GIT 命令学习笔记
 git remote -v 显示目前的远程仓库
 
-#添加新的远程库
+# 添加新的远程库
 ```shell
 git remote add origin git@github.com:louting/ruby.git
 ```
