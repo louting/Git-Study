@@ -13,3 +13,13 @@ git remote add origin git@github.com:louting/ruby.git
 ```shell
 git push all --all
 ```
+
+## add 与 commit 同时完成
+```
+git commit -am "commit-comment"
+```
+
+## 修改作者和邮件设置
+```
+git config --global --edit
+```
